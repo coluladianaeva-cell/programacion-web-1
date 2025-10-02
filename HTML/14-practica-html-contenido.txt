@@ -1,0 +1,78 @@
+Practica de HTML
+
+Objetivo. Crear una estructura de HtML con etiquetas semnaticas y elementos como: textos, imagenes y videos. Tambien agregaremos un formulario para solicitar el nombre y correo electronico del usuario.
+
+Tema: 
+
+*Vamos a elegir huna historia con trilogia, 3 capitulos o 3 peliculas o 3 comics.
+*Necesitamos la sig informacion:
+
+1. Introduccion a la historia en general. (breve)
+2. Año y descripcion de cada capitulos
+3. Sinopsis 
+4. Personajes principales, con breve descripcion.
+5. Trailers oficiales de cada capitulo.
+6. Formulario
+
+
+
+1. Introduccion: Saga "Los juegos del hambre"
+La saga de "Los Juegos del Hambre" se desarrolla en un futuro post-apocalíptico en la nación de Panem, que se estableció en lo que antes era América del Norte. Panem está compuesta por un ostentoso y rico Capitolio que ejerce un control dictatorial sobre doce distritos empobrecidos que lo rodean.
+
+Como castigo por una fallida rebelión anterior, y como método para mantener la opresión y el miedo, el Capitolio obliga a cada distrito a enviar anualmente a dos jóvenes, un chico y una chica de entre 12 y 18 años, conocidos como "Tributos", para participar en Los Juegos del Hambre.
+
+Este es un evento televisado a nivel nacional en el que los 24 Tributos deben luchar a muerte en una arena hasta que solo quede un vencedor.
+
+La historia principal comienza con Katniss Everdeen, una joven de 16 años del empobrecido Distrito 12, que se ofrece voluntaria para ser Tributo en lugar de su hermana pequeña, Primrose. Junto a su compañero, Peeta Mellark, Katniss es llevada al Capitolio para ser entrenada y preparada para los 74.º Juegos del Hambre, iniciando un camino de supervivencia, desafío y eventual rebelión contra el opresivo Capitolio y su líder, el Presidente Snow.
+
+
+
+Año y descripcion:
+2012: Los Juegos del Hambre (The Hunger Games). Presenta a Katniss Everdeen, quien se ofrece como Tributo para salvar a su hermana. Ella y su compañero, Peeta Mellark, compiten en los brutales 74.º Juegos del Hambre, desafiando al Capitolio con una victoria conjunta.
+
+2013: Los Juegos del Hambre: En Llamas (Catching Fire). Tras su victoria, Katniss y Peeta se ven obligados a realizar el "Tour de la Victoria" y perciben que su desafío ha encendido la mecha de la rebelión. El Capitolio, para neutralizarla, los obliga a regresar a la Arena en una edición especial de los juegos: el Tercer Vasallaje de los Veinticinco.
+
+2014: Los Juegos del Hambre: Sinsajo - Parte 1 (Mockingjay - Part 1). Después de escapar de la Arena, Katniss es llevada al secreto Distrito 13, el centro de la creciente rebelión. Es convencida de convertirse en el "Sinsajo" (Mockingjay), el símbolo de la revolución, mientras lucha por rescatar a Peeta, que ha sido capturado y torturado por el Capitolio.
+
+2015: Los Juegos del Hambre: Sinsajo - Parte 2 (Mockingjay - Part 2). La guerra final estalla. Katniss y un escuadrón de rebeldes se aventuran en el Capitolio para una misión personal de asesinato contra el tiránico Presidente Snow. La película culmina con el enfrentamiento final por la libertad de Panem.
+
+2023: Los Juegos del Hambre: Balada de Pájaros Cantores y Serpientes (The Ballad of Songbirds & Snakes). Esta precuela se sitúa 64 años antes de los eventos de Katniss. Sigue a un joven Coriolanus Snow (el futuro presidente) mientras intenta restaurar el honor de su familia siendo mentor de Lucy Gray Baird, la Tributo del empobrecido Distrito 12 durante los rudimentarios 10.º Juegos del Hambre.
+
+
+
+Sinopsis: 
+La saga se desarrolla en Panem, una nación distópica gobernada por el tiránico Capitolio, que obliga a doce distritos a enviar anualmente a dos jóvenes a los Juegos del Hambre, un evento televisado donde deben luchar a muerte.
+
+La historia se centra en Katniss Everdeen, del empobrecido Distrito 12, que se ofrece como tributo para salvar a su hermana. Tras desafiar las reglas y sobrevivir a los Juegos con su compañero Peeta, Katniss se convierte involuntariamente en el Sinsajo, el símbolo de la rebelión que se alza contra el Capitolio y su cruel presidente, Snow, llevando a Panem a una brutal guerra por la libertad. La saga también explora, en una precuela, los orígenes y la formación del propio Presidente Snow.
+
+
+
+Personajes principales:
+Katniss Everdeen: La protagonista y narradora. Es una cazadora ferozmente protectora de su hermana. Se convierte en el Sinsajo, el símbolo involuntario y reacio de la rebelión contra el Capitolio. Es experta con el arco y la flecha.
+Peeta Mellark	El Tributo masculino del Distrito 12 y compañero de Katniss. Es bondadoso, empático y experto en camuflaje y oratoria. Utiliza su inteligencia y su supuesta historia de amor con Katniss como estrategia de supervivencia.
+
+Gale Hawthorne: El mejor amigo y compañero de caza de Katniss en el Distrito 12. Es apasionado, fuerte y se convierte en una voz líder para la rebelión. Representa una visión más radical y militar de la guerra.
+Coriolanus Snow	El principal antagonista y presidente tiránico de Panem. Es un estratega cruel y manipulador que utiliza el miedo y la violencia para mantener el control. La precuela explora su juventud y cómo se forjó su sed de poder.
+
+Haymitch Abernathy:	El único ganador vivo del Distrito 12 antes de Katniss y Peeta, y por lo tanto, su mentor. Es un hombre cínico y alcohólico, pero posee una astucia invaluable para manipular los Juegos y las relaciones del Capitolio.
+
+Presidenta Alma Coin: La líder del oculto Distrito 13 y de la rebelión. Es fría, calculadora y pragmática. Inicialmente aliada de Katniss, su creciente ambición política se convierte en una amenaza después de derrocar a Snow.
+
+Primrose Everdeen: La hermana menor de Katniss. Es dulce, gentil y desarrolla un talento notable como sanadora. Es la razón principal por la que Katniss se ofrece voluntaria, y simboliza la inocencia que Katniss lucha por proteger.
+
+Finnick Odair: Un apuesto y carismático vencedor de los Juegos del Hambre del Distrito 4. Experto con el tridente y la red. Se convierte en un aliado crucial de Katniss en el Vasallaje de los Veinticinco y en la rebelión.
+
+Cinna: El estilista de Katniss en el Capitolio. Es amable, genuino y su visión creativa transforma a Katniss en "la chica en llamas", convirtiéndola en un ícono de moda y rebeldía. Es un apoyo moral crucial para ella.
+
+
+
+Trailers oficiales: 
+https://www.youtube.com/watch?v=_8Ktfs2mBDY : Los Juegos del Hambre (2012).	Se centra en la Cosecha en el Distrito 12, el momento en que Katniss se ofrece voluntaria por su hermana. Muestra el viaje al Capitolio, los entrenamientos y las primeras escenas de supervivencia y acción en la Arena.
+
+https://www.youtube.com/watch?v=MRwlg4ImXZg : Los Juegos del Hambre: En Llamas (2013).	Muestra la "Gira de la Victoria" forzada de Katniss y Peeta, y la creciente tensión en los distritos. Predomina la revelación del Sinsajo como símbolo y el choque al anunciar el Vasallaje de los Veinticinco (unos Juegos con vencedores anteriores).
+
+https://www.youtube.com/watch?v=3AuMlTD46tg : Los Juegos del Hambre: Sinsajo - Parte 1 (2014).	El tráiler se enfoca en Katniss siendo rescatada y llevada al Distrito 13. Muestra el búnker subterráneo, la aparición de la Presidenta Coin y Gale, y la transformación de Katniss en el ícono de propaganda de la rebelión: el Sinsajo.
+
+https://www.youtube.com/watch?v=20jveHaADfM : Los Juegos del Hambre: Sinsajo - Parte 2 (2015)	Presenta la escalada final de la guerra. Katniss, Peeta, Gale y el "Escuadrón Estrella" se infiltran en el Capitolio, que ha sido convertido en un campo de trampas mortales. El tráiler enfatiza la misión de asesinar al Presidente Snow.
+
+https://www.youtube.com/watch?v=IWjAy4lIyoY : Los Juegos del Hambre: Balada de Pájaros Cantores y Serpientes (2023)	Ambientado 64 años antes, muestra a un joven Coriolanus Snow como mentor del Distrito 12. El tráiler subraya el estado primitivo y brutal de los 10.º Juegos del Hambre y el carisma de la tributo Lucy Gray Baird.

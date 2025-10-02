@@ -1,0 +1,117 @@
+<!-- 
+ 
+Etiquetas semanticas
+
+Las etiquetas semanticas significan tipo de contenido para el navegador. Esto le ayuda a clasificar la informacion y mejorar la experiencia del usuario.
+
+El buscador Google aprovecha esta semantica para puntear mejor a las paginas web.
+
+<header>...</header>: Define el encabezado de un documento o seccion.
+
+<nav>...</nav>: Define un conjunto de enlaces de navegacion. Generalmente se usa para la navegacion principal.
+
+<main>...</main>: Define el contenido principal del documento.
+
+<section>...</section>: Define una seccion en un documento. 
+
+<article>...</article>: Define un articulo independiente.
+
+<aside>...</aside>: Define contenido adicional o complementaria.
+
+<footer>...</footer>: Define el pie de paginas de un documento o seccion.
+
+
+-->
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etiquetas semnaticas</title>
+</head>
+<body>
+    <h1>Etiquetas semnaticas</h1>
+
+    <header>
+        Soy el encabezado de la pagina. Puedo contener un texto principal, el logotipo y los enlaces de navegacion.
+        <nav>inicio | acerca de | proyectos | contacto</nav>
+    </header>
+    <main>
+        Aqui va el contenido principal de la pagina y generalmente seccionado
+
+        <section>
+            <h2>Biografia</h2>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+        </section>
+
+        <section>
+            <header>
+                <h2>Proyectos</h2>
+            </header>
+
+            <article>
+                <h3>Primer proyecto</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </article>
+
+            <article>
+                <h3>Segundo proyecto</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </article>
+
+            <article>
+                <h3>Tercer proyecto</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            </article>
+
+            <footer>
+                <span>Creador: Gabito</span>
+            </footer>
+
+        </section>
+
+        <section>
+            <div>
+                <h2>Contacto</h2>
+            </div>
+
+            <div>
+                <p>Apuntate al Neswsleteer para mas informacion.</p>
+                <form>
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email">
+                    <button>Suscribirse</button>
+                </form>
+            </div>
+
+            <div>
+                <p>Whatsapp: <span>+99 123 456 789</span></p>
+            </div>
+        </section>
+    </main>
+
+    <aside>Aqui vamos a tener contenido secundraio</aside>
+    <section>
+        <h3>Portafolio amigos</h3>
+        <ul>
+            <li>Portafolio Diana</li>
+            <li>Portafolio joshua</li>
+            <li>portafolio Alan</li>
+            <li>Portafolio Astrid</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>Patrocionadores</h3>
+        <div>
+            <img src="banner-patrocinador.png" alt="Logotipo de tortas">
+        </div>
+    </section>
+</aside>
+    <footer>
+        Pie de pagina contiene el cierre de nuestro documento. Suele contener navegaciones secundarias 
+    </footer>
+</body>
+</html>
