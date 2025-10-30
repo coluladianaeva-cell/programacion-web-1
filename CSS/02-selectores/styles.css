@@ -71,3 +71,83 @@ tipos de selectores:
         font-family: sans-serif;
         font-weight: 900; 
     }
+
+
+/* 
+
+Selectores combinados
+
+-Descendientes. Seleccionan elemntos dentro de otros elementos.
+  elemento elemento Interno {
+  ...
+}
+*/
+
+section h2 { 
+    color: rgb(212, 21, 107);
+    font-family: sans-serif;
+    border: none; 
+
+}
+
+body .galeria {
+    border: none;
+    background-color:rgb(231, 87, 14) 
+}
+
+.galeria .monsters {
+    border: none;
+    background-color:rgb(205, 116, 116) 
+}
+
+/* 
+  
+  Selectores combinados 
+
+  - Hijo Directo. Selecciona elemntos que son directos de un elemnto padre.
+   
+  elementoPadre > elementoHijo {
+
+  ...
+}
+  */
+
+  .monsters > li {
+    border: none;
+    text-align: center;
+    margin-bottom: 24px;
+    background-color: rgb(111, 175, 54);
+  }
+
+/*
+
+ Selectores combinado
+
+ - Elemnto Adjacente. Selecciona el primer elemento inmediatamente despues de otro elemento.
+ Es decir su hermano inmediato.
+
+  elemento + elementoAdyacente {
+  ...
+}
+  */
+
+  .primer-hermano + li {
+    font-size: 2rem;
+    color: rgb(220, 6, 220)
+  }
+
+  /*
+
+  Selectores combinados
+
+  - Hermanos General. Selecciona todos los hermanos despues de un elemnt.
+
+  elemento ~ elementoHermano {
+  ...
+}
+  */
+
+  .primer-hermano ~ li {
+    font-family: monospace;
+    text-decoration: underline;
+  }
