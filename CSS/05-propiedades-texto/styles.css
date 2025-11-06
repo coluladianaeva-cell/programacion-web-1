@@ -1,0 +1,134 @@
+body {
+    background-color: rosybrown;
+}
+
+/* 
+
+Propiedades de texto 
+
+Estan relacionados con el estilo o formato de los textos en HTML.
+
+Controlamos su apariencia, espaciado, alineacion y decoracion.
+
+  color: Define el color de texto y puede recibir diferentes valores: keywords, hexadecimales, rgb, rgba, hsl, hsla, transparent. La "a" en el sistema rgba significa alpha chanel o canal alpha.
+  
+  font-family: Define la familia tipografica del texto. Recibiendo los valores como: keywords, Nombre de la familia, si tiene mas de dos palabras se colocan entre comillas. Si tenemos fuentes de respaldo, se separan por comas.
+  
+  font-size: Define el tamaño de texto. Acepta valores en px, em, rem, porcentaje y funciones.
+  
+  font-style: El estilo de fuente recibe tres parametros: normal, italic y oblique
+  
+  font-weight: Define el peso tipografico de la familia tipografica lo permite.
+
+   /* 
+    El hexadecimal se divide en grupos de dos caracteres
+    
+    # 00 00 00
+       r  g  b  
+       
+    Los valores  0 al 9 y de la A a F --- 16 caracteres. El valor 0 representa el valor mas oscuro y la F el mas luminoso.
+
+    Cuando los pares tienen el mismo valor se pueden abreviar.
+
+    #FF FF FF  > #F6FF
+       
+*/
+
+h1 {
+    color: pink;
+    color: blueviolet;
+    color: brown;
+    color: lightblue;
+    font-family: sans-serif;
+    font-size: fantasy;
+    font-style: italic;
+    font-weight: 400px
+}
+
+p {
+    color: #ffffff;
+    color: #db5d5d;
+    color: #e21ebe;
+    font-family: "Gill Sans";
+    font-size: 18px;
+    font-style: normal;  
+}
+
+a {
+    color: rgb(222, 96, 180);
+    font-family: "Gill Sans";
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400px; /* Regular */
+    font-weight: 900px; /* Black */
+}
+
+/* 
+Propiedades de alineacion 
+
+text-align: Define la alineacion del texto. Recibe los valores left, right, center, justify, start y end.
+
+*/
+
+h1 {
+    background-color: rgb(196, 48, 88);
+    text-align: left; /* default */
+    text-align: right;
+    text-align: center;
+    text-align: justify; /* Debe ser un parrafo y tener espacio para distribuir */
+    text-align: right;
+}
+
+p {
+    text-align: right;
+
+}
+
+a {
+    background-color: crimson;
+    text-align: justify; /* No funciona */
+}
+
+
+/* 
+
+Propiedades de estilo 
+
+text-decoration: Añade un alinea transversal altexto. Recibe los valores: none, uderline, overline, line-trought
+
+text-transform: controla la capitalizacion del texto. Recibe valores: uppercase, lowercase y capitalize.
+
+line-height: ESpacio entre las lineas del texto. Reccibe valores en px, %, em, rem.
+
+letter-spacing: Espacio entre letras. Recibe valores en px, em, rem y %.
+
+word-spacing: espacio entre palabras. Recibe valores en px, em, rem, %.
+
+text-shadow: sombra del texto
+*/
+
+
+.important {
+    color:aqua;
+    text-decoration: overlay;
+    text-decoration: overline;
+    text-decoration: line-through;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-transform: uppercase;  /* Mayusculas */
+    text-transform: lowercase;  /* Minusculas */
+    text-transform: capitalize; /* Primera palabra letra en mayus */
+
+    letter-spacing: 10px;
+
+    text-shadow: -20px -20px 20px rgb(222, 96, 180);
+}
+
+p {
+    line-height: 24px;
+}
