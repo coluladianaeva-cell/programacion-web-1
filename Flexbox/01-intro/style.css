@@ -1,0 +1,28 @@
+body {
+    background-color: lightpink;
+}
+
+
+/* 
+
+Flexbox
+
+habilitamos las propiedades de flexbox con display: felx en el contenedor.
+
+*/
+
+.container {
+    display: flex;
+    padding:24px;
+    background-color: lightskyblue;
+}
+
+.item {
+    background-color: hotpink;
+}
+
+.item-flex {
+    display: flex;
+    padding: 12px;
+    background-color: blueviolet;
+}
